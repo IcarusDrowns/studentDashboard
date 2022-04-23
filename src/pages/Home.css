@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+.HOME{
+    background: #E5E5E5;
+}
+.coveringbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.Pramotion-box{
+    background: linear-gradient(0deg, #F37C5B -21.94%, rgba(243, 124, 91, 0.64581) 103.81%, rgba(243, 124, 91, 0) 225.44%);
+    height: 80vh;
+}
+.Heading{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 90px;
+line-height: 116px;
+color: #FDE3E3;
+}
+.lower-content{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+    width: 50%;
+}
+.nav-item{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+color: #FFFFFF;
+padding: 10px;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+}
+img{
+    width: 7%;
+    position: static;
+    left: 2px;
+}
+.upcoming_events{
+font-family: 'Inter';
+font-weight:900;
+font-size: 50px;
+line-height: 58px;
+/* identical to box height */
+text-decoration-line: underline;
+color: #000000;
+}
+

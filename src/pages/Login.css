@@ -1,0 +1,56 @@
+.form {
+  height: 100vh;
+  background-image: url(https://jaipur.manipal.edu/content/dam/manipal/muj/foa/images/SMC/SMC2/Desktop_10.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.form .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 55%;
+}
+.form .formcontainer {
+  border: 1px solid gray;
+  width: 80%;
+
+  max-width: 327px;
+
+  padding: 10px;
+  background-color: white;
+  color: #050505;
+}
+
+.form .heading {
+  color: rgb(185, 66, 50);
+  text-align: center;
+  background-color: beige;
+}
+
+.form label {
+  display: block;
+  margin-top: 14px;
+  margin-bottom: 6px;
+}
+
+.form input {
+  width: 96%;
+  height: 20px;
+}
+
+.form button {
+  background-color: rgb(185, 66, 50);
+  color: white;
+  height: 30px;
+  width: 98%;
+  border-color: white;
+  margin-top: 20px;
+  padding: 6px;
+  cursor: pointer;
+}
+
+.form.email,
+.form .password,
+.form .name {
+  margin-bottom: 3px;
+}

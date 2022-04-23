@@ -1,0 +1,66 @@
+.list-box{
+  width: 20vw;
+  background-color: white;
+  margin: 30px;
+  border: 1px solid rgb(155, 37, 37);
+  border-radius: 20px;
+}
+.content img{
+width: 16vw;
+margin-top: 2vw;
+}
+.title{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 19px;
+text-decoration-line: underline;
+}
+.about-event{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align:start;
+margin: 20px;
+
+}
+.club-logo{
+  width: 13%;
+}
+.club-logo img{
+  width: 100%;
+  margin-left: 40%;
+}
+.badge_panindia{
+  width: 25%;
+  border: 1px solid black;
+  font-size: 10px;
+  height: 25px;
+}
+.bottom_tag{
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  align-content: center;
+  margin: 2px;
+}
+.tag{
+  display: flex;
+  width: 90%;
+  flex-direction: column;
+}
+.tag img{
+  width: 30%;
+  margin: 2px;
+  margin-left: 60%;
+}
+.explore_button{
+  width: 40%;
+  margin: auto;
+}
+.explore_button img{
+  width: 100%;
+}

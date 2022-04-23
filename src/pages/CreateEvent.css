@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.create_heading{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 75px;
+text-decoration: underline;
+}
+.create_inputrow{
+margin-top: 50px;
+margin-left: 50px;
+margin-right: 50px;
+display: flex;
+}
+.create_input_row{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    }
+.create_input_left{
+    width: 40vw;
+    margin-right: 10vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    text-decoration: underline;
+    
+}
+.create_input_left input{
+    width: 100%;
+    margin-top: 10px;
+    font-size: 26px;
+    padding: 5px;
+}
+.create_input_right input{
+    width: 100%;
+    margin-top: 10px;
+    font-size: 26px;
+    padding: 5px;
+}
+.create_input_left textarea{
+    width: 100%;
+    margin-top: 10px;
+}
+.create_input_right textarea{
+    width: 100%;
+    margin-top: 10px;
+}
+.create_input_right{
+    width: 40vw;
+    margin-left: 10vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    text-decoration: underline;
+    }
+    .create_input_all{
+        width: 100vw;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 36px;
+        line-height: 42px;
+        text-decoration: underline;
+    }
+        
+    .create_input_all textarea{
+        width: 100%;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 26px;
+        line-height: 42px;
+        text-decoration: underline;
+        }
+    .textareabox{
+        font-size: 26px;
+    }
+    .checkbox input{
+        height: 25px;
+        width: 30px;
+    }
+    .checkwritebox{
+        font-size: 25px;
+        text-decoration: none;
+    }
+    .checkboxxing{
+        display: flex;
+    }
+    .uploadfiles{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+        text-decoration-line: underline;
+    }
+    .upload_data_left{
+        width: 35vw;
+        margin-left: 50px;
+        margin-bottom: 50px;
+        border: 2px solid rgb(158, 157, 157);
+        border-radius: 5px;
+        font-size: 20px;
+        color: rgb(86, 86, 86);
+    }
+    .upload_data_left button{
+        width: 10vw;
+        margin-left: 180px;
+        background-color: rgba(248, 56, 4, 1);
+        border: none;
+        padding: 8px;
+        color: white;
+        border-radius: 10px;
+        
+    }
+    .upload_data_right{
+        width: 35vw;
+        margin-left: 50px;
+        margin-bottom: 50px;
+        border: 2px solid rgb(158, 157, 157);
+        border-radius: 5px;
+        font-size: 20px;
+        color: rgb(86, 86, 86);
+    }
+    .upload_data_right button{
+        width: 10vw;
+        margin-left: 265px;
+        background-color: rgba(248, 56, 4, 1);
+        border: none;
+        padding: 8px;
+        color: white;
+        border-radius: 10px;
+        
+    }
+    .uploading{
+        display: flex;
+        justify-content: center;
+    }

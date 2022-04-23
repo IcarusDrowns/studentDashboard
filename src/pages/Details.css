@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Mono&display=swap');
+.detailsimgpos{
+    width: 100%;
+}
+.right_box{
+    display: flex;
+    flex-direction: column;
+}
+.Upper_Box{
+    display: flex;
+}
+.Upper_Box img{
+    width: 50vw;
+    display: flex;
+    margin: 50px;
+}
+.club_title{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+text-decoration-line: underline;
+margin-top: 40px;
+}
+.details_about{
+    margin-top: 100px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    text-decoration: underline;
+}
+.details_details{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+margin-right: 50px;
+line-height: 35px;
+}
+.tag_details img{
+    width: 10%;
+    margin: 20px;
+}
+.tag_details{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+.Event_Details{
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 56px;
+text-decoration-line: underline;
+margin-left: 50px;
+}
+.Info{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+margin-left: 50px;
+}
+.Rules_Plans{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 56px;
+margin-left: 50px;
+margin-top: 40px;
+text-decoration-line: underline;
+}
+.Reward_Details{
+font-family: 'Lato';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 46px;
+margin-left: 50px;
+margin-top: 40px;
+text-decoration-line: underline;
+}
+.Date_of_Event{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 36px;
+margin-left: 50px;
+margin-top: 40px;
+text-decoration-line: underline;
+}
+.REGISTER{
+    margin: 50px;
+}
